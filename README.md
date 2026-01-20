@@ -14,9 +14,15 @@ Tools: Git, GitHub, VS Code
 - Smart Driver Drowsiness Detection System  
 - Accident Detection System  
  
-##Location: Pune
-Open to: Frontend / Full Stack Roles
-LinkedIn: www.linkedin.com/in/
-prerana-bendale-839471270
 
+##  Location & Availability
+- **Location:** Pune  
+- **Open to Roles:**  
+  -  Frontend Developer  
+  
+
+
+
+##  Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/prerana-bendale-839471270  
 
