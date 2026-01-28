@@ -14,12 +14,15 @@ Tools: Git, GitHub, VS Code
 ---
 ##  Projects
 Smart Driver Drowsiness Detection System
+
 Python, OpenCV, CNN – Real-time driver drowsiness detection using computer vision to prevent road accidents.
 
 Accident Detection System
+
 Python, ML – Automatic accident detection system that triggers alerts for faster emergency response.
 
-## Multi Cyber Attack Detection Project
+Multi Cyber Attack Detection Project
+
 Python, Machine Learning – Detection and classification of multiple cyber attacks using network traffic analysis.
 
 ---
