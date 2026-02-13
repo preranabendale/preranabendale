@@ -1,4 +1,4 @@
-##  About Me
+##  I am Prerana Bendale
 MCA Graduate (9.35 CGPA)  
 Junior Frontend / Junior Full Stack Developer  
 React | Python | Flask | Django | Machine Learning
